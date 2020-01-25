@@ -2,12 +2,12 @@ This is simple todo list.
 
 ## STACK USES
 
-**Backend:**
+**Backend:**</br>
 Express </br>
 Sequelize </br>
-@hapi/joi </bt>
+@hapi/joi </br>
 
-**Frontend:**
+**Frontend:**</br>
 
 React with Typescript </br>
 Axios for request </br>
